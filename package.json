@@ -1,5 +1,5 @@
 {
-  "name": "three-orbitcontrols",
+  "name": "three-orbitcontrols-es",
   "version": "2.102.2",
   "description": "is the three.js OrbitControls from official repo examples",
   "main": "OrbitControls.js",
